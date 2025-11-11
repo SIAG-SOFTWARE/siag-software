@@ -39,7 +39,7 @@ SIAG Software builds pragmatic AI-driven tools and automation that deliver measu
 
 ## How we work
 1. Briefing → 2. 50% upfront → 3. Development → 4. Testing & Handoff → 5. Final payment  
-We accept crypto (USDT/USDC via Binance / Metamask) and selected fiat options (MercadoPago / Airtm / PayPal when available). Detailed payment instructions provided after agreement & NDA.
+We accept crypto (USDT/USDC and others). Detailed payment instructions provided after agreement & NDA.
 
 ---
 
