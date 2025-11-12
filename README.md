@@ -51,7 +51,7 @@ Our approach: **fast MVPs**, **secure deployments**, and **repeatable deliverabl
 4. Testing and handoff  
 5. Final payment + support period  
 
-💰 **Payments accepted:** USDT / USDC / crypto or bank transfer  
+💰 **Payments accepted:** USDT / USDC / crypto  
 📄 **Confidentiality:** Detailed payment & NDA terms shared after agreement
 
 ---
