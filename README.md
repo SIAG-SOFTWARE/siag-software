@@ -63,7 +63,7 @@ Core SIAG technologies and frameworks remain proprietary and are shared only und
 
 ---
 
-> _“From autonomous intelligence to pragmatic solutions — building the Solarpunk web, one system at a time.”_ ☀️
+> _“From autonomous intelligence to pragmatic solutions — building one system at a time.”_ ☀️
 
 ## Contribute or Contact
-If you want to collaborate, sponsor development, or request a custom project, contact: **siag.software@protonmail.com**
+If you want to collaborate, sponsor development, request service or product, or request a custom project, contact: **siag.software@protonmail.com**
