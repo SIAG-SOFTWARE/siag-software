@@ -66,4 +66,14 @@ Core SIAG technologies and frameworks remain proprietary and are shared only und
 > _“From autonomous intelligence to pragmatic solutions — building one system at a time.”_ ☀️
 
 ## Contribute or Contact
-If you want to collaborate, sponsor development, request service or product, or request a custom project, contact: **siag.software@protonmail.com**
+If you want to collaborate, sponsor development, request service or product, or request a custom project, 
+contact: **siag.software@protonmail.com**
+Telegram: **https://t.me/SIAG_SOFTWARE**
+
+## Demo repositories
+
+- [Chatbot Demo](https://github.com/SIAG-SOFTWARE/chatbot-demo)
+- [n8n Example Workflow](https://github.com/SIAG-SOFTWARE/n8n-example)
+- [Web Scraper Sample](https://github.com/SIAG-SOFTWARE/scraper-sample)
+- [Full-Stack Web App Demo](https://github.com/SIAG-SOFTWARE/webapp-demo)
+
