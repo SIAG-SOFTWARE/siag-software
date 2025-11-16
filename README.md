@@ -70,10 +70,35 @@ If you want to collaborate, sponsor development, request service or product, or 
 contact: **siag.software@protonmail.com**
 Telegram: **https://t.me/SIAG_SOFTWARE**
 
-## Demo repositories
+## Demo Repositories
+Chatbots
 
-- [Chatbot Demo](https://github.com/SIAG-SOFTWARE/chatbot-demo)
-- [n8n Example Workflow](https://github.com/SIAG-SOFTWARE/n8n-example)
-- [Web Scraper Sample](https://github.com/SIAG-SOFTWARE/scraper-sample)
-- [Full-Stack Web App Demo](https://github.com/SIAG-SOFTWARE/webapp-demo)
+👉 Basic Chatbot Demo
+https://github.com/SIAG-SOFTWARE/chatbot-demo
 
+👉 Advanced Chatbot Demo
+https://github.com/SIAG-SOFTWARE/chatbot-demo-advanced
+
+Automation (n8n / Workflows)
+
+👉 n8n Basic Example Workflow
+https://github.com/SIAG-SOFTWARE/n8n-example
+
+👉 n8n Advanced Workflows Pack
+https://github.com/SIAG-SOFTWARE/n8n-workflows-advanced
+
+Web Scraping
+
+👉 Basic Web Scraper Sample
+https://github.com/SIAG-SOFTWARE/scraper-sample
+
+👉 Advanced Web Scraper (Playwright + Modular)
+https://github.com/SIAG-SOFTWARE/scraper-advanced-demo
+
+Full-Stack Web Applications
+
+👉 Full-Stack Web App Demo
+https://github.com/SIAG-SOFTWARE/webapp-demo
+
+👉 Full-Stack Web App Pro (Auth + Roles + Dashboard)
+https://github.com/SIAG-SOFTWARE/webapp-demo-pro
