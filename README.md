@@ -69,6 +69,7 @@ Core SIAG technologies and frameworks remain proprietary and are shared only und
 If you want to collaborate, sponsor development, request service or product, or request a custom project, 
 contact: **siag.software@protonmail.com**
 Telegram: **https://t.me/SIAG_SOFTWARE**
+Canal: **https://t.me/SiagSoftware**
 
 ## Demo Repositories
 Chatbots
